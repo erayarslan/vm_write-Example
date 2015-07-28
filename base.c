@@ -1,3 +1,6 @@
+// This code is fuckin' template. It does not work $düzgün.
+// Because 'kodumn Apple'ı
+
 #include <stdio.h>
 #include <mach/mach_init.h>
 #include <sys/sysctl.h>
