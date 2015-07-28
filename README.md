@@ -30,4 +30,4 @@ $ sudo ./attacker
 
 ## license
 
-fuck it.
+fuck 'da polizei.
